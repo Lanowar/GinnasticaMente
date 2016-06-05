@@ -10,5 +10,6 @@ public class Main {
 		
 		MainFrame mainFrame = new MainFrame(800, 600, APP_NAME);
 		mainFrame.setVisible(true);
+		System.out.println(APP_NAME);
 	}
 }
